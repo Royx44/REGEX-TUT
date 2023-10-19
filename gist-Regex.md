@@ -49,3 +49,4 @@ Regex back-references are placeholders that refer to previously captured groups 
 ### Look-ahead and Look-behind
 Regex look-ahead and look-behind are assertions that allow you to check for the presence or absence of certain patterns before or after the main matching pattern, without including them in the match itself. Look-ahead checks what follows, while look-behind checks what precedes the main pattern, helping you to create more complex matching conditions in regular expressions.
 ## Author
+https://github.com/jonschlinkert/author-regex
